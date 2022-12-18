@@ -1,0 +1,12 @@
+
+.hero-body{
+  text-align: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.hero-body > .logo{
+  width: 200px;
+}

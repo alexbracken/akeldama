@@ -1,0 +1,9 @@
+{
+    "name": "Neshama",
+    "description": "The soul of Akeldama",
+    "author": "Alex Bracken",
+    "license": "MIT",
+    "tooltips": {
+        "+main": "The main content of the page"
+    }
+}
